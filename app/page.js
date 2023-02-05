@@ -1,7 +1,9 @@
+import Modal from "@/components/Modal";
+
 export default function Home() {
   return (
     <div>
-      <h1>Hello World</h1>
+      <Modal />
     </div>
   );
 }
